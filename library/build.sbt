@@ -1,7 +1,7 @@
 val commonSettings = Seq(
   organization := "com.example",
   name := "foldable",
-  scalaVersion := "2.12.0-M5"
+  scalaVersion := "2.12.0-RC1-1e81a09"
 )
 
 val foldableOld = project.settings(
